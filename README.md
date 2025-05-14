@@ -1,10 +1,10 @@
- # Hi there 👋
+ ## Hi there 👋
 
-🔭 I’m currently looking for a position as a data scientist and AI engineer.
-🌱 I’m currently learning AI and BI based on real time basis service with sophisticated filtered data.
-👯 I’m looking to collaborate on AI integreated Education service platform especially on Training, Consulting.
-📫 How to reach me: +82 1092676664 (I'm an OWL anyways...)
-⚡ Fun fact: I majored in English Education! lol
+- 🔭 I’m currently looking for a position as a data scientist and AI engineer.
+- 🌱 I’m currently learning AI and BI based on real time basis service with sophisticated filtered data.
+- 👯 I’m looking to collaborate on AI integreated Education service platform especially on Training, Consulting.
+- 📫 How to reach me: +82 1092676664 (I'm an OWL anyways...)
+- ⚡ Fun fact: I majored in English Education! lol
 
 - 📊 기술 스택
 

@@ -1,19 +1,22 @@
 
-## 👋 Hi, I’m Doyoung Kim – an aspiring NLP/MLOps engineer passionate about building scalable, real-world AI systems.
+## 👋 Hi, I’m Doyoung Kim – an aspiring NLP/MLOps engineer passionate about building real-world AI systems across language, vision, and automation. 
 
-🔍 My recent work includes:
-• SoundBank – an AI-based financial recommendation system using TensorFlow, FastAPI, and AWS  
-• Lingo – a multilingual translation API with search logic and user-centric UI design  
-• Self-organized NLP Reading Group – focusing on RAG, tool-augmentedrlqkrlqk agents, and scalable LLM serving
+🧠 Recent Projects
+• SoundBank – AI-based fund recommendation system (TensorFlow + FastAPI + AWS + React)  
+• Lingo – multilingual search and translation API for multicultural users  
+• Multilingual AI ERP Platform(On Progress) – my personal project integrating ASR (Whisper), OCR (Tesseract), NMT (MarianMT), and multimodal alignment for global English learning and career support
 
-🌱 I’m especially interested in:
-• Retrieval-Augmented Generation (RAG)  
-• MLOps for LLMs (non-autoregressive, diffusion-based)  
-• Bridging research prototypes with production-ready services
+🔍 Core Interests
+• Multimodal pipelines combining speech, vision, and language  
+• MLOps for scalable deployment of LLM-based services  
+• Human-in-the-loop NLP tools and post-editing workflows
 
-🚀 Currently applying to the DLI Lab @ Yonsei University, aiming to grow as a researcher–engineer contributing to open, reproducible AI.
+📚 I also led a small paper reading group focused on retrieval-augmented generation and tool-augmented language agents, to better understand how LLMs can interact with knowledge and environments.
+
+🚀 Currently applying to the DLI Lab @ Yonsei University, hoping to contribute to NLP research that meets real-world complexity and scale.
 
 📫 Let’s connect! ehdud44777@gmail.com
+
 
 
 - 📊 기술 스택

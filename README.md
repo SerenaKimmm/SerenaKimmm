@@ -1,10 +1,20 @@
- ## Hi there 👋
 
-- 🔭 I’m currently looking for a position as a data scientist and AI engineer.
-- 🌱 I’m currently learning AI and BI based on real time basis service with sophisticated filtered data.
-- 👯 I’m looking to collaborate on AI integreated Education service platform especially on Training, Consulting.
-- 📫 How to reach me: ehdud44777@gmail.com (I'm an OWL anyways...)
-- ⚡ Fun fact: I majored in English Education! lol
+## 👋 Hi, I’m Doyoung Kim – an aspiring NLP/MLOps engineer passionate about building scalable, real-world AI systems.
+
+🔍 My recent work includes:
+• SoundBank – an AI-based financial recommendation system using TensorFlow, FastAPI, and AWS  
+• Lingo – a multilingual translation API with search logic and user-centric UI design  
+• Self-organized NLP Reading Group – focusing on RAG, tool-augmentedrlqkrlqk agents, and scalable LLM serving
+
+🌱 I’m especially interested in:
+• Retrieval-Augmented Generation (RAG)  
+• MLOps for LLMs (non-autoregressive, diffusion-based)  
+• Bridging research prototypes with production-ready services
+
+🚀 Currently applying to the DLI Lab @ Yonsei University, aiming to grow as a researcher–engineer contributing to open, reproducible AI.
+
+📫 Let’s connect! ehdud44777@gmail.com
+
 
 - 📊 기술 스택
 
